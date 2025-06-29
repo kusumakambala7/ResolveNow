@@ -45,3 +45,4 @@ npm install
 
 # 3. Run the application
 npm start
+[🎬 Watch ResolveNow Project Demo](https://github.com/kusumakambala7/ResolveNow/blob/main/ResolveNow%20video.mp4?raw=true)
